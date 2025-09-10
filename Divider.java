@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Divider {
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
 
         System.out.print("Type a number: ");
